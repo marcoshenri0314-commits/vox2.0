@@ -1,0 +1,5 @@
+# No computador, renomeie este arquivo para .env
+# Não publique o arquivo .env no GitHub.
+SUPABASE_URL=https://SEU-PROJETO.supabase.co
+SUPABASE_KEY=COLE_AQUI_SUA_PUBLISHABLE_KEY
+PORT=5000
